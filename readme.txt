@@ -11,4 +11,3 @@ App Version: Mark 2.0
 Package:		 com.mycompany.threatlens20
 Mode:			   Free App
 -------------------------------------
-

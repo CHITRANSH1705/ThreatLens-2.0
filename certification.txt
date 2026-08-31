@@ -3,8 +3,6 @@ Here are the ownership and the certification details
 of the ThreatLens 2.0 1.0
 ---------------------------------------------------
 
-
-
 app_name - 						ThreatLens 2.0
 app_alias - 					threatlens20
 app_author_name - 				My Company

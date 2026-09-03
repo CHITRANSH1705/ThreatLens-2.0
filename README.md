@@ -4,3 +4,5 @@ A modern web app to check URLs for security risks using Google Safe Browsing API
 It integrates the Google Safe Browsing API to detect malware, phishing, and other harmful threats, providing a sandbox mode for safely viewing suspicious pages.
 
 
+
+

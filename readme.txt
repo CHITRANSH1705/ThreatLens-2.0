@@ -1,5 +1,3 @@
-
-
 Release APK & App Bundle (AAB) ready to be submitted to Google Play Store 
 and to any other APK / AAB store over the internet.
 -------------------------------------
